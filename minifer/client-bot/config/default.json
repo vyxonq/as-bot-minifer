@@ -1,0 +1,11 @@
+{
+  "token": "M",
+  "prefix": "!",
+  "minifyCommand": "minify",
+  "ownerId": "1227908670394863639",
+  "logChannelId": "",
+  "errorLogChannelId": "",
+  "guildId": "",
+  "fileLogChannelId": "",
+  "debug": true
+}
