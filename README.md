@@ -1,8 +1,8 @@
 ## Preview
 
-![Bot Preview](./assets/bot_output.png)
+![Bot Preview](./assets/bot_preview.png)
 
-![Bot Output](./assets/bot_preview.png)
+![Bot Output](./assets/bot_output.png)
 
 ![File Output](./assets/image.png)
 
